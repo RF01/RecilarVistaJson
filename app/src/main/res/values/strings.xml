@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">RecilarVistaJson</string>
+    <string name="edi_name">Editar Nombre</string>
+    <string name="edi_surname">Editar Apellido</string>
+    <string name="edi_age">Editar Edad</string>
+    <string name="accept">Aceptar</string>
+    <string name="cancel">Cancelar</string>
+</resources>
